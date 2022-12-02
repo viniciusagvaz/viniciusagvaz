@@ -13,6 +13,6 @@ I am almost (emphasis on **almost** as **not really, but...**) fluent in English
 Peace out fellas!✌🏻👽
 
 <a href="https://github.com/zoomviex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridsj&count_private=true&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsj&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=radical&layout=compact" />
 </a>
