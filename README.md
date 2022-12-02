@@ -1,24 +1,11 @@
-###Hello world 👋
+# Hello, World!👋
 
-<!--
-**zoomviex/zoomviex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Call me **Vini**, chief 🫡
+Formerly a chef who's now a programming student. I come from Rio de Janeiro, Brazil 😎🩴
 
-Here are some ideas to get you started:
+Studying via the web and a course in Senac - RJ!
+I'm learning HTML/CSS/Js at the moment, but have big hopes to one day maybe become a gamer dev.
+I have little to no experience programming games but hey why not pursue an old dream, am I right?! 
+I am almost (emphasis on **almost** as **not really, but...**) fluent in English, so if you want to teach and help someone in need, I'm your guy!😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a student from Brazil 😎🩴🇧🇷
-
-Learning HTML/CSS at the moment.
-Studying via web and a course in Senac - RJ!
-
-I am fluent in English, so if you want to teach and help someone in need, I'm your guy!😁😁
-
-Peace out fellas!✌🏻
+Peace out fellas!✌🏻👽
