@@ -11,3 +11,8 @@ I have little to no experience programming games but hey why not pursue an old d
 I am almost (emphasis on **almost** as **not really, but...**) fluent in English, so if you want to teach and help someone in need, I'm your guy!😁
 
 Peace out fellas!✌🏻👽
+
+<a href="https://github.com/zoomviex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridsj&count_private=true&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsj&theme=radical&layout=compact" />
+</a>
