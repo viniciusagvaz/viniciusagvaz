@@ -1,4 +1,4 @@
-### Hi there 👋
+###Hello world 👋
 
 <!--
 **zoomviex/zoomviex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a student from Brazil 😎🩴🇧🇷
+
+Learning HTML/CSS at the moment.
+Studying via web and a course in Senac - RJ!
+
+I am fluent in English, so if you want to teach and help someone in need, I'm your guy!😁😁
+
+Peace out fellas!✌🏻
