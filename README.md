@@ -14,14 +14,9 @@ Peace out fellas!✌🏻👽
 
 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=zoomviex&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/?username=zoomviex&show_icons=true"
-  media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?zoomviex&show_icons=true" />
-</picture>
+<a href="https://github.com/zoomviex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=radical&layout=compact" />
+</a>
+
+
