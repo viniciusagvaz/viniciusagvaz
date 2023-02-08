@@ -14,7 +14,7 @@ Peace out fellas!✌🏻👽
 
 
 
-<a width="1200em" href="https://github.com/zoomviex">
+<a href="https://github.com/zoomviex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=radical&layout=compact" />
 </a>
