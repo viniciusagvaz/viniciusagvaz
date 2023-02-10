@@ -1,10 +1,10 @@
 <h1>Hello, World!👋</h1>
 
-Call me **Vini**, chief 🫡
+<h4>Call me **Vini**, chief 🫡</h4>
 
 👨‍🍳Formerly a chef who's now a programming student. I come from Rio de Janeiro, Brazil 😎🩴
-
-Studying via the web and a course in Senac - RJ!
+ 
+ Studying via the web and a course in Senac - RJ!
 
 I'm learning **HTML/CSS/Js** at the moment, but have big hopes to one day maybe become a gamer dev.
 I have little to no experience programming games but hey why not pursue an old dream, am I right?! 
