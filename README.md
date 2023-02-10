@@ -1,5 +1,7 @@
 <h1>Hello, World!👋</h1>
 
+<h6><i>Hmm... Mmm... Oh! Pardon me, I was absorbed in thought. To be honest, I'm in a bit of a pickle."</i> 🧅</h6>
+
 <h4>Call me **Vini**, chief 🫡</h4>
 
 👨‍🍳Formerly a chef who's now a programming student. I come from Rio de Janeiro, Brazil 😎🩴
