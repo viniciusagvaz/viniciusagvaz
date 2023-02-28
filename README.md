@@ -20,7 +20,10 @@
 
 Almost (emphasis on **almost** as **not really, but...**) fluent in English, so if you want to teach and help someone in need, I'm your guy!😁
 
-<h3>Peace out fellas!✌🏻👽</h3>
+<h2 align="center">
+ Peace out fellas!✌🏻👽
+</h2>
+
 <br><br>
 
 <div align="center">
