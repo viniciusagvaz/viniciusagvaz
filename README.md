@@ -16,5 +16,5 @@ Almost (emphasis on **almost** as **not really, but...**) fluent in English, so 
 
 <a href="https://github.com/zoomviex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=dracula&show_icons=true" />
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=dracula&layout=compact" />
 </a>
