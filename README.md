@@ -28,8 +28,8 @@ Almost (emphasis on **almost** as **not really, but...**) fluent in English, so 
 
 <div align="center">
    <a href="https://github.com/zoomviex">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=dracula&show_icons=true" />
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=dracula&layout=compact" />
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=dracula&show_icons=true" />
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=dracula&layout=compact" />
    </a>
    <br><br>
    <a href = "mailto:agvazvinicius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
