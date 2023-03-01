@@ -34,7 +34,7 @@ Almost (emphasis on **almost** as **not really, but...**) fluent in English, so 
    <br><br>
    <a href = "mailto:agvazvinicius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/vinicius-a-g-vaz-122596254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- <br>
+ <br> <br> <br> 
  <img align="center" height="120em" src="https://uploaddeimagens.com.br/images/004/371/292/full/logo-lg-green-removebg-preview.png?1677605931" />
 </div>
 
