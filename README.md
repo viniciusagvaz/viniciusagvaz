@@ -16,7 +16,7 @@
 </div>          
 <br><br>
 
- -I have big hopes to one day maybe become a game dev, although I have little to no experience programming games but, hey! Why not pursue an old dream, am I right?! 👾
+ -I have big aspirations to one day maybe become a game dev, although I have little to no experience programming games but, hey! Why not pursue an old dream, am I right?! 👾
 
 Almost (emphasis on **almost** as **not really, but...**) fluent in English, so if you want to teach and help someone in need, I'm your guy!😁
 
