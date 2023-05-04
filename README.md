@@ -35,7 +35,7 @@
 	/></a>
 	<a href="https://www.linkedin.com/in/vinicius-a-g-vaz-122596254" target="_blank"
 		><img
-			src="https://img.shields.io/badge/-Vinicius Vaz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+			src="https://img.shields.io/badge/-Vinícius Vaz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 			target="_blank"
 	/></a>
 </div>
