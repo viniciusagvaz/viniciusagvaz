@@ -10,7 +10,7 @@
 
 <h4>Call me Vini, chief 🫡</h4>
 
-👨‍🍳 - Formerly a chef who's now a programming student. I come from Rio de Janeiro, Brazil 😎🩴
+👨‍🍳 - Formerly a chef who's now a programming student from Brazil. 
 
 <div>
 	🤓 - I'm current learning:
