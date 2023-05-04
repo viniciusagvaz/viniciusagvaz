@@ -25,7 +25,7 @@
 		width="23em"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
-<br><br><br>
+<br>
 <div align="center">
 	<h3>Contact me via:</h3>
 	<a href="mailto:agvazvinicius@gmail.com"
