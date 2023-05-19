@@ -28,16 +28,17 @@
 <br>
 <div align="center">
 	<h3>Contact me via:</h3>
+	<a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank"
+		><img
+			src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+			target="_blank"
+	/></a>
 	<a href="mailto:agvazvinicius@gmail.com"
 		><img
 			src="https://img.shields.io/badge/agvazvinicius-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 			target="_blank"
 	/></a>
-	<a href="https://www.linkedin.com/in/vinicius-a-g-vaz-122596254" target="_blank"
-		><img
-			src="https://img.shields.io/badge/-Vinícius Vaz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-			target="_blank"
-	/></a>
+	
 </div>
 <!--
 <div align="center">
