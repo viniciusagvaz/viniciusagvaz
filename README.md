@@ -1,4 +1,4 @@
-<h1><img align="center" height="35em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/> Hello, World!👋</h1>
+<h1> Hello, World!👋</h1>
 
 <h6>
 	<i
@@ -45,7 +45,7 @@
 	/></a>
 	
 </div>
-<!--
+<br>
 <div align="center">
 	<a href="https://github.com/zoomviex">
 		<img
@@ -56,9 +56,8 @@
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=gotham&layout=compact" />
 	</a>
 </div>
-
-<br><br><br>
+<br>
 <div align="center">
 	<img height="80em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
 </div>
--->
+
