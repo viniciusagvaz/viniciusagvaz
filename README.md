@@ -31,7 +31,7 @@
           
 </div>
 <br>
-<div align="center">
+<div>
 	<h3>Contact me via:</h3>
 	<a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank"
 		><img
@@ -46,7 +46,7 @@
 	
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
 	<a href="https://github.com/zoomviex">
 		<img
 			height="180em"
@@ -55,9 +55,9 @@
 			height="180em"
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=gotham&layout=compact" />
 	</a>
-</div>
+</div> -->
 <br>
-<div align="center">
-	<img height="80em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
+<div>
+	<img height="100em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
 </div>
 
