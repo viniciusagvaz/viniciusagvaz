@@ -46,18 +46,18 @@
 	
 </div>
 <br>
-<!-- <div align="center">
-	<a href="https://github.com/zoomviex">
+<div>
+	<a href="https://github.com/viniciusagvaz">
 		<img
 			height="180em"
-			src="https://github-readme-stats.vercel.app/api?username=zoomviex&count_private=true&theme=gotham&show_icons=true" />
+			src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&count_private=true&theme=gotham&show_icons=true" />
 		<img
 			height="180em"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoomviex&theme=gotham&layout=compact" />
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=gotham&layout=compact" />
 	</a>
-</div> -->
+</div>
 <br>
 <div align="center">
-	<img  height="100em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
+	<img  height="180em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
 </div>
 
