@@ -31,22 +31,23 @@
           
 </div>
 <br>
-<div>
+<div align='center'>
 	<h3>Contact me via:</h3>
 	<a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank"
 		><img align="center"
-			src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+			src="https://img.shields.io/badge/-viniciusagvaz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 			target="_blank"
 	/></a>
-	<a href="mailto:agvazvinicius@gmail.com"
+<!-- 	<a href="mailto:agvazvinicius@gmail.com"
 		><img align="center"
 			src="https://img.shields.io/badge/agvazvinicius-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 			target="_blank"
-	/></a>
+	/></a> -->
 	
 </div>
 <br>
-<div>
+<br>
+<div align='center'>
 	<a href="https://github.com/viniciusagvaz">
 		<img
 			height="180em"
@@ -57,7 +58,9 @@
 	</a>
 </div>
 <br>
+<br>
+<br>
 <div align="center">
-	<img  height="180em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
+	<img  height="50em" src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg"/>
 </div>
 
