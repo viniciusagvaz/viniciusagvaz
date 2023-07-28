@@ -50,10 +50,10 @@
 <div align='center'>
 	<a href="https://github.com/viniciusagvaz">
 		<img
-			height="180em"
+			height="160em"
 			src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&count_private=true&rank_icon=github&theme=gotham&show_icons=true" />
 		<img
-			height="180em"
+			height="160em"
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=gotham&layout=compact" />
 	</a>
 </div>
