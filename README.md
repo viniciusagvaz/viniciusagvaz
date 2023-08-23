@@ -1,11 +1,7 @@
 <h1> Hello, World!👋</h1>
 
 <h6>
-	<i
-		>Hmm... Mmm... Oh! Pardon me, I was absorbed in thought. To be honest, I'm in a bit of a
-		pickle."</i
-	>
-	🧅
+	<i>"May thou be one with the sunlight forevermore"</i> ☀️
 </h6>
 
 <h4>Call me Vini, chief 🫡</h4>
