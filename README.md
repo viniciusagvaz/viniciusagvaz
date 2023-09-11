@@ -14,10 +14,14 @@
 		width="20em"
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 	<img align="center" 
-	     width="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+	     	width="20em" 
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 	<img align="center"
 		width="20em"
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+	<img align="center"
+		width="20em"
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
 	<img align="center"
 		width="23em" 
 	     	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
