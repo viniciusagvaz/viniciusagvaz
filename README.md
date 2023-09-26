@@ -6,31 +6,30 @@
 
 <h4>Call me Vini, chief 🫡</h4>
 
+<div>
 👨‍🍳 - Formerly a chef who's now a Analysis and Development of Systems student
 from Brazil.
-
+</div>
+<br>
 <div>
   🤓 - Learning for work:
-  <img align="center" width="20em"
+  <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" width="20em"
+  <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" width="20em"
+  <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" width="20em"
+  <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" width="23em"
+  <img align="center" width="27em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" width="23em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  
-
-  
-          
+  <img align="center" width="27em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />    
 </div>
+<br>
 <div>
   😎 - Learning 4 fun:
-  <img align="center" width="30em" 
+  <img align="center" width="43em" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
 </div>
 
