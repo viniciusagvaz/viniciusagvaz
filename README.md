@@ -57,8 +57,6 @@ from Brazil.
   </a>
 </div>
 <br>
-<br>
-<br>
 <div align="center">
   <img height="50em"
     src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg" />
