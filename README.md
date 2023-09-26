@@ -10,7 +10,7 @@
 from Brazil.
 
 <div>
-  🤓 - I'm current learning:
+  🤓 - Learning for work:
   <img align="center" width="20em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" width="20em"
@@ -23,9 +23,19 @@ from Brazil.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" width="23em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  
 
+  
+          
 </div>
+<div>
+  😎 - Learning 4 fun:
+  <img align="center" width="30em" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+</div>
+
 <br>
+
 <div align='center'>
   <h3>Contact me via:</h3>
   <a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank"><img
