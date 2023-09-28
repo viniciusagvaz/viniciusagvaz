@@ -1,6 +1,6 @@
-<h1> Hello, World!👋</h1>
+<h1 align="center"> Hello, World!👋</h1>
 
-<h6>
+<h6 align="center">
   <i>"May thou be one with the sunlight forevermore"</i> ☀️
 </h6>
 
@@ -8,12 +8,13 @@
 
 <ul>
 <div>
-👨‍🍳 -Formerly a chef who's now a Analysis and Development of Systems student
-from Brazil.
+<h3>👨‍🍳 -Formerly a chef who's now a Analysis and Development of Systems student
+from Brazil.</h5>
 </div>
-<br>
+
 <div>
-  🤓 -Learning for work:
+  <h3>
+    🤓 -Learning for work:
   <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" width="26em"
@@ -25,13 +26,15 @@ from Brazil.
   <img align="center" width="27em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" width="27em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+  </h3>
 </div>
-<br>
 <div>
+  <h3>
   😎 -Learning 4 fun:
   <img align="center" width="43em" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+  </h3>
 </div>
 </ul>
 
