@@ -1,20 +1,17 @@
 <h1 align="center"> Hello, World!👋</h1>
 
-<h6 align="center">
-  <i>"May thou be one with the sunlight forevermore"</i> ☀️
-</h6>
+<i>"May thou be one with the sunlight forevermore"</i> ☀️
 
 <h4>Call me Vini, chief 🫡</h4>
 
 <ul>
 <div>
-<h3>👨‍🍳 -Formerly a chef who's now a Analysis and Development of Systems student
-from Brazil.</h5>
+👨‍🍳 -Formerly a chef who's now a Analysis and Development of Systems student
+from Brazil.
 </div>
-
+<br>
 <div>
-  <h3>
-    🤓 -Learning for work:
+  🤓 -Learning for work:
   <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" width="26em"
@@ -27,14 +24,13 @@ from Brazil.</h5>
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" width="27em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-  </h3>
+
 </div>
+<br>
 <div>
-  <h3>
   😎 -Learning 4 fun:
   <img align="center" width="43em" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
-  </h3>
 </div>
 </ul>
 
