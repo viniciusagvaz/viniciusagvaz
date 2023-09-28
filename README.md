@@ -34,9 +34,8 @@ from Brazil.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
 </div>
 </ul>
-<br>
 
-<div align='center'>
+<div align="center">
   <h3>Contact me via:</h3>
   <a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank"><img
       align="center"
@@ -45,15 +44,14 @@ from Brazil.
   <a href="mailto:agvazvinicius@gmail.com"><img align="center"
       src="https://img.shields.io/badge/agvazvinicius-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank" /></a>
-
 </div>
 <br>
 <br>
 <div align='center'>
   <a href="https://github.com/viniciusagvaz">
-    <img height="160em"
+    <img width="45%" 
       src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&count_private=true&rank_icon=github&theme=gotham&show_icons=true" />
-    <img height="160em"
+    <img width="34%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=gotham&layout=compact" />
   </a>
 </div>
@@ -62,4 +60,4 @@ from Brazil.
   <img height="50em"
     src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg" />
 </div>
-
+<br>
