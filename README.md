@@ -11,7 +11,7 @@ from Brazil.
 </div>
 <br>
 <div>
-  🤓 -Learning for work:
+  🤓📖 -Learning for work:
   <img align="center" width="26em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" width="26em"
@@ -28,7 +28,7 @@ from Brazil.
 </div>
 <br>
 <div>
-  😎 -Learning 4 fun:
+  😎🎮 -Learning 4 fun:
   <img align="center" width="43em" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
 </div>
