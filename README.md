@@ -29,8 +29,8 @@ from Brazil.
 <br>
 <div>
   😎🎮 -Learning 4 fun:
-  <img align="center" width="43em" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+  <img align="center" width="30em" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 </div>
 </ul>
 
