@@ -48,10 +48,10 @@ from Brazil.
 <br>
 <div align='center'>
   <a href="https://github.com/viniciusagvaz">
-    <img width="80%" 
+    <img width="450em" 
       src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&count_private=true&rank_icon=github&theme=gotham&show_icons=true" />
     <br>
-    <img width="80%" 
+    <img width="450em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=gotham&layout=compact" />
   </a>
 </div>
