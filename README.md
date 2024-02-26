@@ -48,11 +48,14 @@ from Brazil.
 <br>
 <div align='center'>
   <a href="https://github.com/viniciusagvaz">
-    <img width="300em" 
-      src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&count_private=true&rank_icon=github&theme=gotham&show_icons=true" />
-    <br>
-    <img width="300em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=gotham&layout=compact" />
+    <img height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
+    <img height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
+      <br>
+    <img height="180em" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusagvaz&theme=blueberry&hide_border=false" />
+
   </a>
 </div>
 <br>
