@@ -72,6 +72,6 @@ from Brazil.
 
 
 <hr>
-
+<!--
   <img width="100em"
     src="https://raw.githubusercontent.com/viniciusagvaz/readme-imgs/main/vv-dark-logo.svg?token=GHSAT0AAAAAACOQZ62T4AA37UOLXU6RJLVUZO5FIIA"/>
