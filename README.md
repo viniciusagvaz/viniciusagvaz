@@ -23,10 +23,12 @@ from Brazil.
   <img align="center" width="27em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" width="27em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
 
 </div>
+
 <br>
+
 <div>
   😎🎮 -Learning 4 fun:
   <img align="center" width="30em" 
@@ -34,33 +36,42 @@ from Brazil.
 </div>
 </ul>
 
-<div align="center">
-  <h3>Contact me via:</h3>
-  <a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank"><img
-      align="center"
-      src="https://img.shields.io/badge/-viniciusagvaz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank" /></a>
-  <a href="mailto:agvazvinicius@gmail.com"><img align="center"
-      src="https://img.shields.io/badge/agvazvinicius-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      target="_blank" /></a>
-</div>
+
 <br>
 <br>
 <div align='center'>
   <a href="https://github.com/viniciusagvaz">
     <img height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&count_private=false&rank_icon=github" />
     <img height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&layout=compact&langs_count=10" />
       <br>
     <img height="180em" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusagvaz&theme=blueberry&hide_border=false" />
-
   </a>
+
+
 </div>
 <br>
 <div align="center">
-  <img height="50em"
-    src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg" />
+  <div align="center">
+  <h3>Contact me via:</h3>
+  
+  <a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank">
+    <img align="center"
+      src="https://img.shields.io/badge/viniciusagvaz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue"
+      target="_blank" />
+  </a>
+
+  <a href="mailto:agvazvinicius@gmail.com">
+    <img align="center"
+      src="https://img.shields.io/badge/agvazvinicius-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"
+      target="_blank" />
+  </a>
 </div>
-<br>
+
+
+<hr>
+
+  <img height="80em"
+    src="https://user-images.githubusercontent.com/109700331/236237484-a9cfbbf0-f8cb-4488-97d5-59310b52417c.svg" />
