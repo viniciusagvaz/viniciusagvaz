@@ -12,6 +12,7 @@ from Brazil.
 <br>
 <div>
   🤓📖 -Learning for work:
+  <br>
   <img align="center" width="24em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" width="24em"
@@ -41,14 +42,13 @@ from Brazil.
 
 <br>
 <br>
-<div align='center'>
+<div>
   <a href="https://github.com/viniciusagvaz">
     <img height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&count_private=false&rank_icon=github" />
     <img height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusagvaz&theme=blueberry&show_icons=true&hide_border=false&layout=compact&langs_count=10" />
-      <br>
-    <img height="180em" 
+    <img height="170em" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusagvaz&theme=blueberry&hide_border=false" />
   </a>
 
