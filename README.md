@@ -4,11 +4,11 @@
 
 ### My name is Vinicius Vaz
 
-I'm a **Web Developer** and game developement enthusiast from Rio de Janeiro, **Brazil**  🏝🩴
-- 👨‍💻 **Student** Systems Analysis and Development student at Estácio de Sá university
+I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, Brazil**  🏝🩴
+- 👨‍💻 Systems Analysis and Development **student** at Estácio de Sá university
 - 🕺 I dance to **weird music** on a daily basis
-- 🎮 Leaning **_4fun_**: &nbsp;<img align='center' width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-- 🖥️ Leaning for **Work**:
+- 🎮 Learning **_4fun_**: &nbsp;<img align='center' width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+- 🖥️ Learning for **Work**:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
