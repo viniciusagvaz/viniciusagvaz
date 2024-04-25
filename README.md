@@ -9,7 +9,8 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 - 🕺 I dance to **weird music** on a daily basis
 - 🎮 Learning **_4fun_**: &nbsp;<img align='center' width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 - 🖥️ Learning for **Work**:
-<div style="display: inline">
+
+<div>
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
@@ -20,10 +21,10 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 
 ###
 
-<div style="display:block">
-<strong>Contact me via</strong>
+<div>
+<span><strong>Contact me via:</strong></span>&nbsp;
 <a href="https://www.linkedin.com/in/viniciusagvaz/" target="_blank">
-<img text-aling="justify" height='21' src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
+<img align="center" height='23' src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
 </a>
 </div>
 
