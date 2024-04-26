@@ -11,10 +11,10 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 - 🖥️ Learning for **Work**:
 
 <div>
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  />&nbsp;&nbsp;
 </div>
