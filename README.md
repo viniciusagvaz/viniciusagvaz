@@ -10,7 +10,7 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 - 👨‍💻 Systems Analysis and Development **student** at Estácio de Sá university
 - 🕺 I dance to **weird music** on a daily basis
 - 🎮 Learning **_4fun_**: &nbsp;<img align='center' width='26' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-- 🖥️ Learning for **Work**:
+
 
 ### 💻 Stacks:
 <div>
