@@ -2,7 +2,7 @@
 # Hello World ! 👋🌍
 ###### _"May thou be one with the Sunlight for ever more."_ ☀
 
-<img align="right" alt="" height="250px" src="color-logo.svg">
+<img align="right" alt="" height="200rem" src="color-logo.svg">
 
 ### My name is Vinicius Vaz
 
