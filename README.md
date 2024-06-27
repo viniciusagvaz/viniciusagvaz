@@ -7,7 +7,7 @@
 ### My name is Vinicius Vaz
 
 I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, Brazil**  🏝🩴
-- 👨‍💻 Systems Analysis and Development **student** at Estácio de Sá university
+- 👨‍💻 **Systems Analysis and Development Student**
 - 🕺 I dance to **weird music** on a daily basis
 - 🎮 Learning **_4fun_**: &nbsp;<img align='center' width='26' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
