@@ -25,8 +25,7 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 </div>
 
 ### 🌐 Connect me via:
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=22c3a6&color:f1fcf9)](mailto:agvazvinicius@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=22c3a6&color:f1fcf9)](mailto:agvazvinicius@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=22c3a6&color:f1fcf9)](https://www.linkedin.com/in/viniciusagvaz/)
 # 
 ### 📈 Stats:
