@@ -32,8 +32,13 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 
 <div align="center">
 
+---
   
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciusagvaz&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=22c3a6&text_color=f1fcf9&border_radius=8&border_color=22c3a6&icon_color=22c3a6&rank_icon=github)&nbsp;&nbsp;
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciusagvaz&line_height=10&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=22c3a6&bg_color=000&text_color=f1fcf9&border_radius=8&border_color=22c3a6&count_private=true)](https://github.com/viniciusagvaz/github-readme-stats)
 
+
+[![Kauã's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusagvaz&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 </div>
