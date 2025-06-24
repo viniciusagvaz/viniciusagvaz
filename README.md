@@ -16,13 +16,15 @@ I'm a **Web Developer** and game development enthusiast from **Rio de Janeiro, B
 
 ### 💻 Stacks:
 <div>
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width='64' height='64' align="venter"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knockout/knockout-plain-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='64' height='64' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
 </div>
 
 ### 🌐 Connect me via:
